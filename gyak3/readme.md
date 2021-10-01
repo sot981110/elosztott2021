@@ -1,0 +1,1 @@
+Kafka topicon át kommunikáló spring chat alkalmazások
